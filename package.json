@@ -1,0 +1,24 @@
+{
+  "name": "logo-generator",
+  "version": "1.0.0",
+  "description": "Week-10 Challenge",
+  "main": "index.js",
+  "directories": {
+    "generated": "generated",
+    "shape": "shape"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": "",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "node": "^20.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}

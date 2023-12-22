@@ -40,7 +40,7 @@ function writeToFile(fileName, answers) {
 const questions = [
   {
     type: "input",
-    message: "What Text would you liek the logo to display? (Max 4 characters)",
+    message: "What Text would you like the logo to display? (Max 4 characters)",
     name: "text",
   },
   {
